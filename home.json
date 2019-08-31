@@ -17,6 +17,24 @@
       "background": "https://lh3.googleusercontent.com/Ll5FTkQ_I77Vmg9ZKHexyS07UUYj7PunlwhWOIPGShtbGznnKz28w1D_KRlbuha4hpRZwLpX8GMXVO9uzhXA-Wvp=h150",
       "icon": "https://lh3.googleusercontent.com/6m0yf67MKvqNWUwSgJAIGe19gjpMc68B6NxWruOybDgcYGCILnzdBnLNiNNnQWDo10g=s180-rw",
       "cta": ""
+    },
+    {
+      "name": "Gallery",
+      "pkg": "com.life4fun.gallery",
+      "overlaycolor": "#324a5e",
+      "textColor": "#ffffff",
+      "background": "https://lh3.googleusercontent.com/VHCBkrbgpULBPclKozmT9lnT048UxlKtkvuPQr3j5NYH9wCa56_5XktZPTVkGPfpjBvyOjGpVXFPTb9lhYxi7NBS=h150",
+      "icon": "https://lh3.googleusercontent.com/mDSOeSFKOZMrBZ0TJ7AfVJTEW4d8M3laCzGXyWOe36chl6fQChY3AUrkKCpuYY6Hw4o=s180-rw",
+      "cta": ""
+    },
+    {
+      "name": "Independence Day : Photo Frame & Photo Editor",
+      "pkg": "com.life4fun.independenceday.photoframe",
+      "overlaycolor": "#ef8b36",
+      "textColor": "#ffffff",
+      "background": "https://lh3.googleusercontent.com/RwpFwhUXZgj4UO83pqlwFbORoIJYMV8UodDVYyEqjvnUefTrRx7j9NpQGR8T9m8IDKq2gJKRDCoVoThT7xhJYiA=h150",
+      "icon": "https://lh3.googleusercontent.com/4BZuWEeRVLXMURHDIBkoXZP6W8CizBBadcCOzgYKc3WtxAEhvTCxM4Jr0db8bkprqnMhufzc9LIkt423NPkTdy0=s180",
+      "cta": ""
     }
   ]
 }
