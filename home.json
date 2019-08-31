@@ -1,4 +1,3 @@
-
 {
   "homeAd": [
     {
@@ -8,6 +7,15 @@
       "textColor": "#ffffff",
       "background": "https://raw.githubusercontent.com/appads/BenderEffect/master/img/ezgif-3-520f44ff7c5c.jpg",
       "icon": "https://lh3.googleusercontent.com/y14ULV03J0EkUEMdikOhhFe6P6zBM1DOIccpmV_yFobPb_6hZKSHjC3UsnR7cPi-g6M=s180-rw",
+      "cta": ""
+    },
+    {
+      "name": "RTO Vehicle Information",
+      "pkg": "com.life4fun.vehicle.ownerinfo",
+      "overlaycolor": "#03b0ff",
+      "textColor": "#ffffff",
+      "background": "https://lh3.googleusercontent.com/Ll5FTkQ_I77Vmg9ZKHexyS07UUYj7PunlwhWOIPGShtbGznnKz28w1D_KRlbuha4hpRZwLpX8GMXVO9uzhXA-Wvp=h150",
+      "icon": "https://lh3.googleusercontent.com/6m0yf67MKvqNWUwSgJAIGe19gjpMc68B6NxWruOybDgcYGCILnzdBnLNiNNnQWDo10g=s180-rw",
       "cta": ""
     }
   ]
